@@ -1,8 +1,30 @@
-.container {
-  padding: 20px;
-  font-size: 14px;
-  line-height: 24px;
+/* 水平间距 */
+/* 水平间距 */
+.uni-margin-wrap {
+  width: 690rpx;
+  width: 100%;
 }
-.container .intro {
-  color: red;
+.swiper {
+  height: 300rpx;
+}
+.swiper image {
+  height: 300rpx;
+}
+.swiper-item {
+  display: block;
+  height: 300rpx;
+  line-height: 300rpx;
+  text-align: center;
+}
+.search_box {
+  background-color: white;
+  border-radius: 50rpx;
+  padding: 10rpx 15rpx;
+  margin: 13rpx 12rpx 16rpx;
+  display: flex;
+  align-items: center;
+}
+.search_box text {
+  font-size: 12px;
+  margin-left: 15rpx;
 }
