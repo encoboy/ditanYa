@@ -1,5 +1,5 @@
 <template>
-	<view>地摊人脉</view>
+	<view>购物车</view>
 </template>
 
 <script>

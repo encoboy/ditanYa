@@ -1,7 +1,0 @@
-{
-  "navigationBarTitleText": "地摊经济",
-  "usingComponents": {
-    "xzw-notice": "../../components/xzw-notice/xzw-notice",
-    "uni-icons": "../../components/uni-icons/uni-icons"
-  }
-}
